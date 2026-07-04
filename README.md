@@ -1,5 +1,20 @@
 # restaurante2_app
-Desarrolle una versión mejorada del sistema restaurante_app utilizando Programación Orientada a Objetos en Python. En esta ocasión, el sistema deberá centrarse en los productos del restaurante, aplicando una relación de herencia entre una clase general y dos clases especializadas.
+UNIVERSIDAD ESTATAL AMAZÓNICA
+ 
+CARRERA DE TECNOLOGÍAS DE LA INFORMACIÓN
+INFORME ACADÉMICO
+PROGRAMACION ORIENTADA A OBJETOS
+SEMANA 06
+TEMA: sistema restaurante_app
+
+Profesor: Mgs. Luis Antonio Llerena Ocaña 
+Alumno: Danny Henry Betancourt Luzón
+2026-2026
+
+DESCRIOCION
+
+
+Sistema restaurante_app utilizando Programación Orientada a Objetos en Python. En esta ocasión, el sistema deberá centrarse en los productos del restaurante, aplicando una relación de herencia entre una clase general y dos clases especializadas.
 
 El proyecto desarrollado por el docente en la Semana 6 corresponde a un sistema de biblioteca donde se aplican clases, objetos, herencia, encapsulación y polimorfismo. En esta tarea, usted deberá tomar ese proyecto únicamente como referencia metodológica para adaptar los mismos principios al contexto de un restaurante. No debe copiar literalmente el código docente, sino analizar su estructura y aplicarla a un problema diferente.
 
